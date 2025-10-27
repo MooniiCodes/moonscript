@@ -10,7 +10,7 @@
         }
     },
     "2": {
-        "log": "'If you are seeing this, this is the log function. It is a function to log things to the developer logging system. Try it in your console scripts!'"
+        "norun": "...I used to be a log function... Until memz got added :,("
     },
     "3": {
         "writeln": "'Hello, world!'"
