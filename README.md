@@ -1,13 +1,23 @@
 # MoonScript
-The script of using JSON and reading it. You can interpret it or compile it (It's just base64...).
+The language of the future
+# MOONSCRIPT HAD A BIG UPDATE!
+MoonScript is not based off of JSON anymore and now uses it's own syntax.
+# Syntax
 
-| Ups           | Downs               |
-| ------------- | ------------------- |
-| Fast          | Syntax              |
-| Simple        | Weird               |
-| Light         | Made By One Person  |
-| Distributable | Interpreted         |
-| Portable      | Not Standalone      |
-| Good Support  | Small Community     |
+Printing
 
-It's ups are simple, it's downs are minor. It's a one-person project. You can help me out by contributing. It would be amazing!
+``print "test";``
+
+Variables (Making and setting)
+
+``let "string", "Hello, world!";``
+
+Or getting input
+
+``input ">> ", "string";``
+
+# Notes:
+
+I'm also working on a little modding platform for MoonScript to make/install your own mods.
+
+Also i'll make a repository for people to download these mods with "wowget".
